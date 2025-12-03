@@ -190,7 +190,7 @@ python module6_integration.py
 ## **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-repo/multiagent-disaster-relief.git
+git clone https://github.com/nagendra9271/multiagent-disaster-relief.git
 cd multiagent-disaster-relief
 ```
 
@@ -266,3 +266,4 @@ Each module includes non-trivial test cases:
 ---
 
 ---
+
